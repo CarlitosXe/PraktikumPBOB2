@@ -1,3 +1,6 @@
+/*Krisna Okky Widayat*/
+/*24060122140105*/
+
 public class MTitik {
     public static void main (String[]args){
         Titik t1 = new Titik();
