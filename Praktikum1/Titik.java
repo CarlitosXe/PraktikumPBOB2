@@ -1,3 +1,6 @@
+/*Krisna Okky Widayat*/
+/*24060122140105*/
+
 public class Titik{
     double absis;
     double ordinat;
