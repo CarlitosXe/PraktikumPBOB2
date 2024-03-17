@@ -1,5 +1,5 @@
 //nama : Krisna Okky Widayat
-//nimb : 24060122140105
+//nim : 24060122140105
 
 package org.bangundatar;
 
